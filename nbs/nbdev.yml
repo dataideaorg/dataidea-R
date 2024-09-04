@@ -2,7 +2,7 @@ project:
   output-dir: _docs
 
 website:
-  title: "dataidea-R"
+  title: "DATAIDEA"
   site-url: "https://dataideaorg.github.io/dataidea-R"
   description: "DATAIDEA R Programming Subject"
   repo-branch: main

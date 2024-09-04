@@ -1,0 +1,8 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - section: R-Course
+        contents:
+          - R-Course/01_R_Overview.ipynb
+          - R-Course/02_R_variables.ipynb
