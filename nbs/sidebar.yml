@@ -6,3 +6,5 @@ website:
         contents:
           - R-Course/01_R_Overview.ipynb
           - R-Course/02_R_variables.ipynb
+          - R-Course/03_R_operations.ipynb
+          - R-Course/04_R_Collections.ipynb
